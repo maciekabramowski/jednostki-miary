@@ -18,3 +18,11 @@ html {
 #em {
     width: 20em;
 }
+
+#ex {
+    width: 20ex;
+}
+
+#rem {
+    width: 20rem;
+}
